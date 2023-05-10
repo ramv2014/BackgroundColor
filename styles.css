@@ -1,0 +1,16 @@
+#firstDiv {  
+  height : 400px;
+  display : flex;
+  align-items : center;
+  justify-content : center;
+}
+
+#secondDiv {  
+  display : flex;
+  align-items : center;
+  justify-content : center;
+}
+
+#changeColor {
+  display : block;
+}
